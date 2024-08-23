@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit-haritwal
+- 👋 Hi, I’m Amit Haritwal
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning advanced node.js
 - 💞️ I’m looking to collaborate on any project related to MERN
