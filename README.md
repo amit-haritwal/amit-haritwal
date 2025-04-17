@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Amit Haritwal<br>👀 I’m interested in MERN stack<br>🌱 I’m currently learning large language models<br>💞️ I’m looking to collaborate on any project related to large language models<br>📫 How to reach me amitharitwal02@gmail.com
+👋 Hi, I’m Amit Haritwal<br>🌱 I’m currently learning large language models<br>💞️ I’m looking to collaborate on any project related to large language models<br>📫 How to reach me amitharitwal02@gmail.com
 
 
 # 💻 Tech Stack:
